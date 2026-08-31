@@ -5,3 +5,4 @@
 - Pushing to GitHub
 - Setting up Git identity
 - Fixing GitHub authentication
+- Learning about branches and pull requests
